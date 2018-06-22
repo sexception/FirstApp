@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "latest"
+    "express": "latest",
+    "morgan": "latest",
+    "compression": "latest",
+    "body-parser": "latest",
+    "method-override": "latest"
   }
 }
